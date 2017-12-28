@@ -10,6 +10,14 @@ function frame(actions) {
 
 }
 
-document.addEventListener('DOMContentLoaded', function () {
-  scene3()
-})
+// document.addEventListener('DOMContentLoaded', function () {
+//   scene2()
+// })
+//
+// document.addEventListener('DOMContentLoaded', function () {
+//   scene3()
+// })
+//
+// document.addEventListener('DOMContentLoaded', function () {
+//   scene4()
+// })
